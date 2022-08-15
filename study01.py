@@ -5,3 +5,6 @@ if a>5:
 	print("크다")
 else:
 	print("작다")
+for in i range(10):
+	if a%i==0:
+		print(i)
